@@ -83,7 +83,13 @@ export function AboutSection() {
                   <div className="w-full h-full rounded-full overflow-hidden bg-background">
                     <div className="w-full h-full rounded-full overflow-hidden bg-muted flex items-center justify-center">
                       {/* Placeholder - Replace with your image */}
-                      <div className="text-8xl">👨‍💻</div>
+                      <Image
+                        src="/profile.jpg"
+                        alt="Vijay Shankar"
+                        width={300}
+                        height={300}
+                        className="rounded-full object-cover border-4 border-yellow-500 shadow-2xl"
+                      />
                       {/* Uncomment when you add public/images/profile.jpg */}
                       {/* <Image 
                         src="/images/profile.jpg" 

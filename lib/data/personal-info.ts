@@ -11,8 +11,8 @@ export const personalInfo = {
   
   social: {
     github: "https://github.com/VijayShankar10",
-    linkedin: "https://linkedin.com/in/vijay-shankar-m",
-    portfolio: "https://vijayshankar.neocities.org/",
+    linkedin: "https://www.linkedin.com/in/vijayshankar10/",
+    portfolio: "https://vijay-shankar-portfolio.vercel.app/",
     amazon: "https://www.amazon.in/2-HOUR-PROCRASTINATION-FIX-Vijay-Shankar-ebook/dp/B0FKB92T3Q",
   },
 

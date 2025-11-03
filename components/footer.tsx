@@ -115,13 +115,10 @@ export function Footer() {
         </div>
 
         {/* Bottom Bar */}
-        <div className="pt-8 border-t border-border">
-          <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-muted-foreground">
+        <div className="pt-8 border-t border-border flex justify-center">
+          <div className="text-center text-sm text-muted-foreground">
             <p>
               © {currentYear} Vijay Shankar M. All rights reserved.
-            </p>
-            <p className="flex items-center gap-1">
-              Built with <Heart className="h-4 w-4 text-red-500 fill-red-500" /> using Next.js, TypeScript & Tailwind CSS
             </p>
           </div>
         </div>

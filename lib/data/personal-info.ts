@@ -21,7 +21,7 @@ export const personalInfo = {
     institution: "Saveetha Engineering College (Autonomous)",
     location: "Chennai, Tamil Nadu",
     duration: "2022 - 2026",
-    cgpa: "7.945 / 10",
+    cgpa: "8.01/ 10(Till 6th sem)",
   },
 
   skills: {
